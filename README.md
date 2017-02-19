@@ -4,6 +4,7 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
+The notebook with the project is located in [this file](https://github.com/ShikaSD/CarND-LaneLines-P1/blob/master/P1.ipynb) .
 
 ### Reflection
 
